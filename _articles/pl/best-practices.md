@@ -242,7 +242,7 @@ Dostępnych jest [wiele dostępnych narzędzi](https://github.com/showcases/tool
 * [mention-bot](https://github.com/facebook/mention-bot) wymienia potencjalnych recenzentów dla pull requestów
 * [Danger](https://github.com/danger/danger) pomaga zautomatyzować code review
 * [no-response](https://github.com/probot/no-response) zamyka issues gdzie autor nie odpowiedział na request lub więcej informacji
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) sprawdza pliki zależności każdego dnia pod kątem nieaktualnych wymagań i otwiera indywidualne pull requesty dla każdego, kogo znajdzie
+* [dependabot](https://github.com/dependabot) sprawdza pliki zależności każdego dnia pod kątem nieaktualnych wymagań i otwiera indywidualne pull requesty dla każdego, kogo znajdzie
 
 W przypadku raportów o błędach i innych typowych treści GitHub ma [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), które możesz utworzyć, aby usprawnić otrzymywaną komunikację. @TalAter stworzył [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) aby pomóc Ci napisać swój issue i szablony PR.
 
@@ -271,7 +271,7 @@ Podobnie jak w przypadku każdego innego rodzaju pracy, regularne przerwy sprawi
   <i>
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.</i>
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
